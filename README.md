@@ -1,4 +1,4 @@
-# first-proj
+# Readme.edit first-proj
 Develop by pushpa
 
 1.import math
